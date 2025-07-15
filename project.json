@@ -4,6 +4,7 @@
   "description": "",
   "main": "Main.xaml",
   "dependencies": {
+    "UiPath.Credentials.Activities": "[2.1.0]",
     "UiPath.Excel.Activities": "[2.22.3]",
     "UiPath.Mail.Activities": "[1.21.1]",
     "UiPath.System.Activities": "[23.10.5]",
